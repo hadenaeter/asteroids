@@ -1,3 +1,3 @@
 # Asteroids! in Python
 
-The classic Asteroids! game programmed in Python
+The classic Asteroids! game made with Python
